@@ -1,0 +1,10 @@
+// grocerylists.json
+{
+  "3255": {
+    "items": [
+      "1 Head of Lettuce",
+      "Haralson apples"
+    ]
+  },
+  // ...more lists with items
+}
